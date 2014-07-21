@@ -27,6 +27,11 @@ html {
 audio {
     display: none;
 }
+
+.silky {
+    max-heght: 500px;
+    margin-top: 30px;
+}
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
