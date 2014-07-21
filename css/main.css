@@ -21,8 +21,12 @@ textarea {
 html {
     font-size: 1em;
     line-height: 1.4;
+    cursor: pointer;
 }
 
+audio {
+    display: none;
+}
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
@@ -212,6 +216,10 @@ textarea {
 
 .clearfix {
     *zoom: 1;
+}
+
+.silky {
+    position: absolute;
 }
 
 /* ==========================================================================
